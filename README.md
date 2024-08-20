@@ -1,5 +1,6 @@
 # Mobile-App_Development
-#Messaging App
+# Messaging App
+
 Overview of Messaging App Messaging app are software applications that enable users to exchange text messages, multimedia files, and other data in real-time over the internet. These apps have transformed communication by providing instant, reliable, and versatile ways to stay connected.
 
 Key Features and Uses Text Messaging:
